@@ -5,7 +5,7 @@ I’m a **Senior Computer Science student** at **Florida Atlantic University (FA
 
 ---
 
-## 🛠 **Technical Skills** 🛠️ 
+## **Technical Skills** 🛠️ 
 
 ### **Programming Languages:**  
 - C, C++, JavaScript, Python  
