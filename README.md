@@ -24,12 +24,12 @@ I’m a **Senior Computer Science student** at **Florida Atlantic University (FA
 - Git, Xcode  
 
 ### **Core Competencies:**  
-- ✅ Data Structures & Algorithms  
-- ✅ Computer Architecture & Logic Design  
-- ✅ Object-Oriented Programming (OOP)  
-- ✅ Data Science & Analytics  
-- ✅ Machine Learning  
-- ✅ Web Development  
+-  Data Structures & Algorithms  
+-  Computer Architecture & Logic Design  
+-  Object-Oriented Programming (OOP)  
+-  Data Science & Analytics  
+-  Machine Learning  
+-  Web Development  
 
 ---
 
